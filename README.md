@@ -1,5 +1,6 @@
 # PowerBI_dashboards
-![Power BI](https://shields.io)
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)
+
 
 ## HR Analytics Dashboard
 <img width="1199" height="676" alt="image" src="https://github.com/user-attachments/assets/1e65b764-4807-4e27-b260-ed83ac8f2570" />
