@@ -5,3 +5,6 @@
 
 ### Madhav Ecommerce Dashboard
 <img width="1199" height="672" alt="image" src="https://github.com/user-attachments/assets/594298e0-06ce-40b1-bbf6-18c74df0a3f4" />
+
+### Customer Behavior Analytics Dashboard
+<img width="957" height="542" alt="image" src="https://github.com/user-attachments/assets/7e7c26d0-2a46-44de-821f-c63ece178673" />
