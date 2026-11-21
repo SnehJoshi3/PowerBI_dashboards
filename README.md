@@ -8,3 +8,6 @@
 
 ### Customer Behavior Analytics Dashboard
 <img width="957" height="542" alt="image" src="https://github.com/user-attachments/assets/7e7c26d0-2a46-44de-821f-c63ece178673" />
+
+### ARK Creature Dashboard
+<img width="962" height="538" alt="image" src="https://github.com/user-attachments/assets/cc7a7107-b181-4785-9fa3-f1cd2a9925d4" />
